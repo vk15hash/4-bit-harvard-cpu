@@ -1,7 +1,6 @@
 # Custom 4-Bit Harvard Microprocessor in Verilog HDL
 
 A custom 4-bit microprocessor designed and implemented in Verilog HDL using a modular RTL approach. The processor features a Harvard architecture, a custom control unit, a 74181-inspired ALU, register file, program counter, and instruction memory integrated into a complete working CPU.
-
 ## Project Background
 
 This project was developed out of curiosity while exploring digital design and Verilog HDL. At the time of development, I had not formally studied computer architecture. The objective was not to replicate an existing processor, but to understand how individual hardware components such as ALUs, registers, counters, multiplexers, decoders, and control logic could be combined into a functioning computing system.
