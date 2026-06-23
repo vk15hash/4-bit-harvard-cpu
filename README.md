@@ -40,7 +40,13 @@ See [Project Report](./4_bit_cpu.pdf) for:
 - Simulation results
 - Design observations
 
+## Repository Structure
+
+├── 4-bit cpu/          Verilog codes and test bench
+├── 4_bit_cpu.pdf       Documentation
+└── README.md  
+
 ## Note
 
-This project was undertaken as a self-learning exercise and is intended as an educational exploration of processor design principles rather than a performance-oriented CPU implementation.
+This project was developed independently as a self-driven exploration of processor design, RTL development, and digital system integration.
 
