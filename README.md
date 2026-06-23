@@ -1,2 +1,47 @@
-# 4-bit-mini-cpu
-This repository is verilog implementation of a simple 4-bit CPU. The 4-bit ALU designed is inspired from IC-74181, with a 4X4 register file, an 8-bit counter, 8X256 ROM with 16-bit word length and control FSM.
+# Custom 4-Bit Harvard Microprocessor in Verilog HDL
+
+A custom 4-bit microprocessor designed and implemented in Verilog HDL using a modular RTL approach. The processor features a Harvard architecture, a custom control unit, a 74181-inspired ALU, register file, program counter, and instruction memory integrated into a complete working CPU.
+
+## Project Background
+
+This project was developed out of curiosity while exploring digital design and Verilog HDL. At the time of development, I had not formally studied computer architecture. The objective was not to replicate an existing processor, but to understand how individual hardware components such as ALUs, registers, counters, multiplexers, decoders, and control logic could be combined into a functioning computing system.
+
+Building the processor required learning and connecting concepts from digital electronics, switching theory, finite state machines, and RTL design, ultimately resulting in a complete instruction-executing processor.
+
+## Features
+
+* 4-bit datapath
+* 16-bit instruction format
+* Harvard architecture
+* Single-cycle instruction execution
+* Custom combinational control unit
+* 74181-inspired ALU supporting arithmetic and logic operations
+* 4×4 register file with dual read ports
+* 8-bit program counter with jump capability
+* RTL implementation in Verilog HDL
+* Functional verification through simulation
+
+## Repository Contents
+
+```text id="fx6qnd"
+rtl/         Verilog source files
+testbench/   Simulation and verification files
+docs/        Project report and supporting material
+```
+
+
+## Key Takeaways
+
+This project provided hands-on exposure to:
+
+* RTL hardware design
+* Verilog HDL development
+* Datapath and control-path integration
+* Instruction decoding
+* Processor organization
+* Digital system verification through simulation
+
+## Note
+
+This project was undertaken as a self-learning exercise and is intended as an educational exploration of processor design principles rather than a performance-oriented CPU implementation.
+
