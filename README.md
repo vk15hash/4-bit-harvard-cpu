@@ -31,6 +31,15 @@ This project provided hands-on exposure to:
 * Processor organization
 * Digital system verification through simulation
 
+## Documentation
+
+See [Project Report](./4_bit_cpu.pdf) for:
+- Architecture overview
+- Instruction format
+- RTL implementation
+- Simulation results
+- Design observations
+
 ## Note
 
 This project was undertaken as a self-learning exercise and is intended as an educational exploration of processor design principles rather than a performance-oriented CPU implementation.
