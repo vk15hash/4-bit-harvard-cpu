@@ -42,9 +42,9 @@ See [Project Report](./4_bit_cpu.pdf) for:
 
 ## Repository Contents
 
-4-bit cpu/         Verilog source files
+4-bit cpu/				Verilog source files
 
-4_bit_cpu.pdf/      Project report and supporting material
+4_bit_cpu.pdf/				Project report and supporting material
 
 
 ## Note
