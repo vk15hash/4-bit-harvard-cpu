@@ -20,15 +20,6 @@ Building the processor required learning and connecting concepts from digital el
 * RTL implementation in Verilog HDL
 * Functional verification through simulation
 
-## Repository Contents
-
-```text id="fx6qnd"
-rtl/         Verilog source files
-testbench/   Simulation and verification files
-docs/        Project report and supporting material
-```
-
-
 ## Key Takeaways
 
 This project provided hands-on exposure to:
