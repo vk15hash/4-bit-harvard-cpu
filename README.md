@@ -40,20 +40,11 @@ See [Project Report](./4_bit_cpu.pdf) for:
 - Simulation results
 - Design observations
 
-## Repository Structure
-4bit-harvard-cpu/
-├── 4-bit cpu/
-│   ├── alu.v
-│   ├── 4x4register_file.v
-│   ├── control_fsm.v
-│   ├── program_counter.v
-│   ├── rom.v
-│   ├── cpu.v
-│   └── cpu_tb.v
-|
-├── 4_bit_cpu.pdf
-│
-└── README.md 
+## Repository Contents
+
+4-bit cpu/         Verilog source files
+4_bit_cpu.pdf/      Project report and supporting material
+
 
 ## Note
 
